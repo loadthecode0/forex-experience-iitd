@@ -68,4 +68,4 @@ _**If any questions remain unanswered, create an issue in the Issues tab.**_
 - Accomodation: Uni-provided
 - Transportation: Public transport with student support, alt is bicycling
 
-_~Ask more questions in Issues.~_
+_Ask more questions in Issues._

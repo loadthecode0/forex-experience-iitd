@@ -21,6 +21,8 @@ _**If any questions remain unanswered, create an issue in the Issues tab.**_
 - A rank list is released, and a Google form is floated for students to fill their preferred host universities.
 - Host universities are allotted based on rank, i.e, a person with a smaller rank gets priority of preference.
 
+- Selected students can look at the [rank list](STUDENT EXCAHNGE PROGRAMME 2024 (List of selected students) scanned copy.pdf) and [final allotment list](List of Selected students_26032024.pdf) from my year to get an idea of rank-uni mapping.
+
 ## Factors to consider while selecting host university:
 - Courses offered, and potential disruptions in your degree planning
 - Accomodation, Food facilities, Transportation inside the country.

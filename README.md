@@ -62,3 +62,10 @@ _**If any questions remain unanswered, create an issue in the Issues tab.**_
 - Students are expected to bear travel and lodging expenses themselves.
 - Some host institutions may provide partial financial assistance (varies greatly).
 - Tuition and boarding fees (if keeping hostel room) are to be paid at IITD. Tuition Fee is waived off at host institution.
+
+## My Coursework and Stay details (TU Denmark)
+- Courses (CSE + HUSS): OS, Parallel Systems, Numerical Algorithms, Machine Learning, Deep Learning, Special Topics in Psychology.
+- Accomodation: Uni-provided
+- Transportation: Public transport with student support, alt is bicycling
+
+_~Ask more questions in Issues.~_
